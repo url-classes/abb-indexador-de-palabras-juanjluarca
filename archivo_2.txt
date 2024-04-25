@@ -1,0 +1,1 @@
+Testeo del funcionamiento general del lector
